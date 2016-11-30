@@ -1,0 +1,4 @@
+Move this file from working branch "new1" to master branch.
+[105 | ~/amisc/Ainfo/code/Git/starting_git/starting_git | 2016-11-29 20:01:54]
+[117 | ~/amisc/Ainfo/code/Git/starting_git/starting_git | 2016-11-29 20:03:43]
+
